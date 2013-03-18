@@ -14,6 +14,14 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 **Website:** http://twitter.github.com/bootstrap/
 
+## AlloyUI
+
+> AlloyUI is a framework built on top of YUI3 that provides a simple API for building high scalable applications.
+
+**Responsive:** Yes  
+
+**Website:** http://alloyui.com/
+
 ## Foundation
 
 > The most advanced responsive front-end framework in the world.
